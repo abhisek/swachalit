@@ -547,6 +547,7 @@ DEPENDENCIES
   uglifier (>= 1.0.3)
   unicorn
   yaml_db
+  crack (>= 1.2.3)
 
 BUNDLED WITH
    1.17.2
